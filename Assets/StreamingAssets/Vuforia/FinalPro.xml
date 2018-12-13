@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="jianhang" size="0.200000 0.130178" />
+    <ImageTarget name="chase" size="0.200000 0.126214" />
+    <ImageTarget name="idBack" size="0.200000 0.118947" />
+  </Tracking>
+</QCARConfig>
